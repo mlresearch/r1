@@ -1,0 +1,79 @@
+---
+booktitle: Proceedings of the Sixth International Workshop on Artificial Intelligence
+  and Statistics
+shortname: AISTATS
+year: '1999'
+start: 1997-01-04
+end: 1997-01-07
+published: 2021-03-30
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: Aistats1997
+month: 0
+cycles: false
+bibtex_editor: Madigan, David and Smyth, Padhraic
+editor:
+- given: David
+  family: Madigan
+- given: Padhraic
+  family: Smyth
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Sixth International Workshop on Artificial Intelligence and Statistics
+    Held in Fort Lauderdale, FL, USA on 04-07 January 1997
+
+  Published as Volume 2 by the Proceedings of Machine Learning Research on 30 March 2021.
+
+  Volume Edited by:
+    David Madigan
+    Padhraic Smyth
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 04--07 Jan
+author:
+  name: PMLR
+baseurl: "/v2"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v2
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume: 2
+email: ''
+conference:
+  name: Sixth International Workshop on Artificial Intelligence and Statistics
+  url:
+  location: Fort Lauderdale, FL, USA
+  dates:
+  - 1997-01-04
+  - 1997-01-05
+  - 1997-01-06
+  - 1997-01-07
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/r2/aistats.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/r2/aistats.bib
