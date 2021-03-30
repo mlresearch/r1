@@ -25,7 +25,7 @@ description: |
   Proceedings of the Sixth International Workshop on Artificial Intelligence and Statistics
     Held in Fort Lauderdale, FL, USA on 04-07 January 1997
 
-  Published as Volume 2 by the Proceedings of Machine Learning Research on 30 March 2021.
+  Published as Volume 1 by the Proceedings of Machine Learning Research on 30 March 2021.
 
   Volume Edited by:
     David Madigan
@@ -36,7 +36,7 @@ description: |
 date_str: 04--07 Jan
 author:
   name: PMLR
-baseurl: "/v2"
+baseurl: "/v1"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
@@ -53,14 +53,14 @@ style: pmlr
 permalink: "/:title.html"
 ghub:
   edit: true
-  repository: v2
+  repository: v1
 display:
   copy_button:
     bibtex: true
     endnote: true
     apa: true
   comments: false
-volume: 2
+volume: 1
 email: ''
 conference:
   name: Sixth International Workshop on Artificial Intelligence and Statistics
@@ -74,6 +74,6 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/r2/aistats.bib"
+orig_bibfile: "/Users/neil/mlresearch/r1/aistats.bib"
 # Site settings
-# Original source:  /Users/neil/mlresearch/r2/aistats.bib
+# Original source:  /Users/neil/mlresearch/r1/aistats.bib
