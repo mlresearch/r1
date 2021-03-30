@@ -24,7 +24,7 @@ author:
 - given: Sally Jo
   family: Cunningham
 date: 1997-01-05
-notes: Reissued by PMLR on 30 March 2021.
+note: Reissued by PMLR on 30 March 2021.
 address:
 container-title: Proceedings of the Sixth International Workshop on Artificial Intelligence
   and Statistics
