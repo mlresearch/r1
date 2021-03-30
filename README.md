@@ -1,4 +1,4 @@
-# PMLR V1
+# PMLR R1
 
 To suggest fixes to this volume please make a pull request containng the changes requested and a justification for the changes.
 
@@ -12,7 +12,7 @@ For details of what is required to submit a proceedings please check http://proc
 
 
 
-Published as Volume 1 by the Proceedings of Machine Learning Research on 30 March 2021.
+Published as Reissue 1 by the Proceedings of Machine Learning Research on 30 March 2021.
 
 Volume Edited by:
   * David Madigan
