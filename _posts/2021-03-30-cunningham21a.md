@@ -1,5 +1,5 @@
 ---
-title: Dataset cataloging metadata for machine learning applications research
+title: Dataset Cataloging Metadata for Machine Learning Applications Research
 abstract: 'As the field of machine learning (ML) matures, two types of data archives
   are developing: collections of benchmark data sets used to test the performance
   of new algorithms, and data stores to which machine learning/data mining algorithms
@@ -13,7 +13,7 @@ publisher: PMLR
 issn: 2640-3498
 id: cunningham21a
 month: 0
-tex_title: Dataset cataloging metadata for machine learning applications research
+tex_title: Dataset Cataloging Metadata for Machine Learning Applications Research
 firstpage: 139
 lastpage: 146
 page: 139-146
