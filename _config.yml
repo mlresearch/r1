@@ -8,7 +8,7 @@ end: 1997-01-07
 published: 2021-03-30
 url: http://proceedings.mlr.press
 layout: proceedings
-series: Reissue
+series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: Aistats1997
@@ -61,6 +61,7 @@ display:
     apa: true
   comments: false
 volume: 1
+volume_type: Reissue
 email: ''
 conference:
   name: Sixth International Workshop on Artificial Intelligence and Statistics
