@@ -12,7 +12,7 @@ For details of what is required to submit a proceedings please check http://proc
 
 
 
-Published as Reissue 1 by the Proceedings of Machine Learning Research on 30 March 2021.
+Published as Reissue R1 by the Proceedings of Machine Learning Research on 30 March 2021.
 
 Volume Edited by:
   * David Madigan
@@ -20,3 +20,4 @@ Volume Edited by:
 
 Series Editors:
   * Neil D. Lawrence
+  * Mark Reid

@@ -42,14 +42,14 @@ date: 2021-03-30
 address:
 container-title: Proceedings of the Sixth International Workshop on Artificial Intelligence
   and Statistics
-volume: '1'
+volume: R1
 genre: inproceedings
 issued:
   date-parts:
   - 2021
   - 3
   - 30
-pdf: http://proceedings.mlr.press/v1/bouchaffra21a/bouchaffra21a.pdf
+pdf: http://proceedings.mlr.press/r1/bouchaffra21a/bouchaffra21a.pdf
 extras: []
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

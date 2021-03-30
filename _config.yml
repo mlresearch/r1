@@ -60,8 +60,9 @@ display:
     endnote: true
     apa: true
   comments: false
-volume: 1
 volume_type: Reissue
+volume_dir: r1
+volume: R1
 email: ''
 conference:
   name: Sixth International Workshop on Artificial Intelligence and Statistics
